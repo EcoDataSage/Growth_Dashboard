@@ -36,7 +36,7 @@ To get started with the dashboard:
 
 ## Modify or Extend
 
-You can modify the dashboard to suit your specific needs:
+You can modify the dashboard to suit your specific needs-
 
 - Plug in your data source
 - Add new KPIs or visuals
