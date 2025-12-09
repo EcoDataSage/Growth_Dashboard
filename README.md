@@ -43,7 +43,7 @@ You can modify the dashboard to suit your specific needs-
 - Adjust filters and date ranges
 - Customise layout, colours, and branding
 
-You're welcome to fork this repo or submit pull requests if you build something on top of it!
+You're welcome to fork this repo or submit pull requests if you build something on top of it!!
 
 ## Contact
 
